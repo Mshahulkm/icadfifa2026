@@ -3,24 +3,24 @@
     "name": "Irshad Malaparambil",
     "year": "2022",
     "position": "Champion",
-    "photo": "/icad-assets/data/images/first.jpeg"
+    "photo": "/data/images/first.jpeg"
   },
   {
     "name": "Abdul Gafoor",
     "year": "2022",
     "position": "Runner Up",
-    "photo": "/icad-assets/data/images/second.jpeg"
+    "photo": "/data/images/second.jpeg"
   },
   {
     "name": "Sarun Sathyan",
     "year": "2022",
     "position": "Third Place",
-    "photo": "/icad-assets/data/images/third.jpeg"
+    "photo": "/data/images/third.jpeg"
   },
   {
     "name": "Shyam Mohan",
     "year": "2022",
     "position": "Fourth Place",
-    "photo": "/icad-assets/data/images/fourth.jpeg"
+    "photo": "/data/images/fourth.jpeg"
   }
 ]
